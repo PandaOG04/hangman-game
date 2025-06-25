@@ -2,6 +2,10 @@
 
 Welcome to the **Hangman Game**, a simple word-guessing game built using **React**. This project was created as a Capstone for a Full Stack Web Development bootcamp.
 
+## Live Demo
+
+👉 You can play the game here: [https://new-hangman-game-b00dfbafb289.herokuapp.com](https://new-hangman-game-b00dfbafb289.herokuapp.com)
+
 ---
 
 ## 🎮 Game Rules
