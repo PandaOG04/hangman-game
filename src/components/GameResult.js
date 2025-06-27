@@ -1,5 +1,6 @@
-// GameResult.js
-// Displays a win or loss message when game is over.
+/**
+ * Displays a win or loss message when game is over.
+ */ 
 
 import React from 'react';
 
