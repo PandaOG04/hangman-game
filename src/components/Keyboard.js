@@ -1,6 +1,6 @@
-// Keyboard.js
-// This component renders an A-Z keyboard using buttons.
-
+/**
+ * Keyboard used to guess the words.
+ */
 import React from 'react';
 import { Button } from 'react-bootstrap';
 

@@ -1,6 +1,6 @@
-// Header.js
-// This component displays the game title and a restart button.
-
+/** 
+  * This component displays the game title and a restart button.
+*/
 import React from 'react';
 import { Button } from 'react-bootstrap';
 

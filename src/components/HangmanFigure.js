@@ -1,5 +1,5 @@
-// HangmanFigure.js
-// This component visually represents the hangman figure using text or images.
+/**
+ * This component visually represents the hangman figure using text or images. */ 
 
 import React from 'react';
 

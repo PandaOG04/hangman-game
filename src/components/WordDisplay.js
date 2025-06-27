@@ -1,5 +1,5 @@
-// WordDisplay.js
-// This component displays the word being guessed with blanks and revealed letters.
+/**
+ * This component displays the word being guessed with blanks and revealed letters. */ 
 
 import React from 'react';
 
