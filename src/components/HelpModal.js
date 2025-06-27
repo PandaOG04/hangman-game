@@ -1,5 +1,6 @@
-// HelpModal.js
-// A React-Bootstrap modal that explains the game rules.
+/** 
+ * A React-Bootstrap modal that explains the game rules.
+ * */ 
 
 import React from 'react';
 import { Modal, Button } from 'react-bootstrap';
